@@ -1,0 +1,17 @@
+{
+  "name": "audio-player",
+  "version": "0.0.1",
+  "description": "cli audio player",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YongHun Byun <yonghunbyun@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "av": "^0.4.2",
+    "mp3": "^0.1.0",
+    "ogg.js": "^0.1.0",
+    "vorbis.js": "^0.1.1"
+  }
+}
