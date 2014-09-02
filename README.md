@@ -7,6 +7,14 @@ Command line `node.js` audio player
 
 - [aurora.js](https://github.com/audiocogs/aurora.js/)
 
+## Supported Audio Format
+
+- mp3
+- ogg
+- flac
+- aac
+- alac
+
 ## Getting Started
 
 ```

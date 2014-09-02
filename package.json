@@ -9,7 +9,10 @@
   "author": "YongHun Byun <yonghunbyun@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "aac": "^0.1.0",
+    "alac": "^0.1.0",
     "av": "^0.4.2",
+    "flac.js": "^0.2.1",
     "mp3": "^0.1.0",
     "ogg.js": "^0.1.0",
     "vorbis.js": "^0.1.1"
